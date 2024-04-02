@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMZI_Lab03", "KMZI_Lab03\KMZI_Lab03.csproj", "{EB56F9F1-0D0A-4937-9159-F5E4B036305E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB56F9F1-0D0A-4937-9159-F5E4B036305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB56F9F1-0D0A-4937-9159-F5E4B036305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB56F9F1-0D0A-4937-9159-F5E4B036305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB56F9F1-0D0A-4937-9159-F5E4B036305E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2433756-25E9-4579-9D03-0FE9CA75CAE2}
+	EndGlobalSection
+EndGlobal

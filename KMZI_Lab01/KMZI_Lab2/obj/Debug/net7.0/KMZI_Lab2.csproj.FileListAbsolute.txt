@@ -1,0 +1,14 @@
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\bin\Debug\net7.0\KMZI_Lab2.exe
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\bin\Debug\net7.0\KMZI_Lab2.deps.json
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\bin\Debug\net7.0\KMZI_Lab2.runtimeconfig.json
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\bin\Debug\net7.0\KMZI_Lab2.dll
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\bin\Debug\net7.0\KMZI_Lab2.pdb
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.AssemblyInfoInputs.cache
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.AssemblyInfo.cs
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.csproj.CoreCompileInputs.cache
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.dll
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\refint\KMZI_Lab2.dll
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.pdb
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\KMZI_Lab2.genruntimeconfig.cache
+C:\bstu_labs\labs-6-sem\kmzi\KMZI_Lab2\KMZI_Lab2\obj\Debug\net7.0\ref\KMZI_Lab2.dll
