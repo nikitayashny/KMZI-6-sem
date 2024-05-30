@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgCegH2/dzPzQ7irfeB3XEYvqERHeiVHGI6bfR4ifLp/GWLgq/Sj0DOaU+gen26xhuyo4Kkrpzj8P+H5gMKedw==",
+  "success": true,
+  "projectFilePath": "C:\\bstu_labs\\labs-6-sem\\kmzi\\IB_Lab14\\IB_Lab14\\IB_Lab14\\IB_Lab14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

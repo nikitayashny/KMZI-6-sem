@@ -1,0 +1,14 @@
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\bin\Debug\net6.0\IB_Lab07.exe
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\bin\Debug\net6.0\IB_Lab07.deps.json
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\bin\Debug\net6.0\IB_Lab07.runtimeconfig.json
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\bin\Debug\net6.0\IB_Lab07.dll
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\bin\Debug\net6.0\IB_Lab07.pdb
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.AssemblyInfoInputs.cache
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.AssemblyInfo.cs
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.csproj.CoreCompileInputs.cache
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.dll
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\refint\IB_Lab07.dll
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.pdb
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\IB_Lab07.genruntimeconfig.cache
+C:\bstu_labs\labs-6-sem\kmzi\IB_Lab07\IB_Lab07\IB_Lab07\obj\Debug\net6.0\ref\IB_Lab07.dll

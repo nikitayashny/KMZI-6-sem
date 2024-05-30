@@ -1,0 +1,55 @@
+﻿using System.Text;
+namespace IB_Lab07;
+
+public class CypherHelper
+{
+    const string pathToFolder = "../../../Texts/";
+    const string fileNameOpen = "open_text.txt";
+    const string fileNameEncrypt = "encrypt_eee2.txt";
+    const string fileNameDecrypt = "decrypt_eee2.txt";
+    public static byte[] GetValidKey(byte[] key)
+    {
+        byte[] newKey = new byte[8];
+        if (key.Length < 8)
+        {
+            for (int i = 0; i < key.Length; i++)
+                newKey[i] = key[i];
+            for (int i = key.Length; i < 8; i++)
+                newKey[i] = key[i % key.Length];
+            return newKey;
+        }
+        else if (key.Length > 8)
+        {
+            for (int i = 0; i < 8; i++)
+                newKey[i] = key[i];
+            return newKey;
+        }
+        else
+            return key;
+    }
+    public static bool WriteToFile(byte[] text, string fileName = fileNameEncrypt)
+    {
+        var filePath = Path.Combine(pathToFolder, fileName);
+        try
+        {
+            File.WriteAllBytes(filePath, text);
+            return true;
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+            return false;
+        }
+    }
+    public static byte[] ReadFromFile(string fileName = fileNameDecrypt)
+    {
+        var filePath = Path.Combine(pathToFolder, fileName);
+        return File.ReadAllBytes(filePath);
+    }
+    public static byte[] GetBytes(string str) => Encoding.UTF8.GetBytes(str);
+    public static string GetString(byte[] bytes) => Encoding.UTF8.GetString(bytes);
+    public static byte[] GetOpenText() => ReadFromFile(fileNameOpen);
+    public static int GetTotalBits(byte[] bytes) => bytes.Length * 8;
+    public static double GetPercentageRatio(int total, int changed) =>
+        Math.Round((float)changed / total * 100, 2);
+}
